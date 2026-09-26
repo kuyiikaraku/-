@@ -1,0 +1,22 @@
+=== STDOUT ===
+閫傜敤浜 .NET Framework MSBuild 鐗堟湰 17.13.19+0d9f5a35a
+
+  Automatic MOC and UIC for target novel_downloader
+  main.cpp
+  mainwindow.cpp
+C:\Users\23124\study\Spider\novel_downloader_qt\mainwindow.cpp(112,19): warning C4858: 姝ｅ湪鏀惧純杩斿洖鍊: Use QThreadPool::start(Callable&&) if you don't need the returned QFuture [C:\Users\23124\study\Spider\novel_downloader_qt\build\novel_downloader.vcxproj]
+C:\Users\23124\study\Spider\novel_downloader_qt\mainwindow.cpp(165,19): warning C4858: 姝ｅ湪鏀惧純杩斿洖鍊: Use QThreadPool::start(Callable&&) if you don't need the returned QFuture [C:\Users\23124\study\Spider\novel_downloader_qt\build\novel_downloader.vcxproj]
+  biquga.cpp
+C:\Users\23124\study\Spider\novel_downloader_qt\biquga.cpp(116,53): warning C4834: 鏀惧純鍏锋湁 [[nodiscard]] 灞炴х殑鍑芥暟鐨勮繑鍥炲 [C:\Users\23124\study\Spider\novel_downloader_qt\build\novel_downloader.vcxproj]
+C:\Users\23124\study\Spider\novel_downloader_qt\biquga.cpp(179,53): warning C4834: 鏀惧純鍏锋湁 [[nodiscard]] 灞炴х殑鍑芥暟鐨勮繑鍥炲 [C:\Users\23124\study\Spider\novel_downloader_qt\build\novel_downloader.vcxproj]
+C:\Users\23124\study\Spider\novel_downloader_qt\biquga.cpp(222,56): warning C4834: 鏀惧純鍏锋湁 [[nodiscard]] 灞炴х殑鍑芥暟鐨勮繑鍥炲 [C:\Users\23124\study\Spider\novel_downloader_qt\build\novel_downloader.vcxproj]
+C:\Users\23124\study\Spider\novel_downloader_qt\biquga.cpp(228,56): warning C4834: 鏀惧純鍏锋湁 [[nodiscard]] 灞炴х殑鍑芥暟鐨勮繑鍥炲 [C:\Users\23124\study\Spider\novel_downloader_qt\build\novel_downloader.vcxproj]
+C:\Users\23124\study\Spider\novel_downloader_qt\biquga.cpp(245,60): warning C4834: 鏀惧純鍏锋湁 [[nodiscard]] 灞炴х殑鍑芥暟鐨勮繑鍥炲 [C:\Users\23124\study\Spider\novel_downloader_qt\build\novel_downloader.vcxproj]
+C:\Users\23124\study\Spider\novel_downloader_qt\biquga.cpp(310,49): warning C4834: 鏀惧純鍏锋湁 [[nodiscard]] 灞炴х殑鍑芥暟鐨勮繑鍥炲 [C:\Users\23124\study\Spider\novel_downloader_qt\build\novel_downloader.vcxproj]
+C:\Users\23124\study\Spider\novel_downloader_qt\biquga.cpp(312,61): warning C4834: 鏀惧純鍏锋湁 [[nodiscard]] 灞炴х殑鍑芥暟鐨勮繑鍥炲 [C:\Users\23124\study\Spider\novel_downloader_qt\build\novel_downloader.vcxproj]
+  mocs_compilation_Release.cpp
+  姝ｅ湪鐢熸垚浠ｇ爜...
+  novel_downloader.vcxproj -> C:\Users\23124\study\Spider\novel_downloader_qt\build\Release\novel_downloader.exe
+  Building Custom Rule C:/Users/23124/study/Spider/novel_downloader_qt/CMakeLists.txt
+
+=== STDERR ===
